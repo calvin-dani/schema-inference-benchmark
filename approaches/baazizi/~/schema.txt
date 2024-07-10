@@ -1,0 +1,1 @@
+{_id:Num,author:{first_name:Str,last_name:Str,location:{latitude:Str,longitude:Str},messages:[Str],phone_number:Str}}
